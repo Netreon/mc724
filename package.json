@@ -1,0 +1,20 @@
+{
+  "name": "bos-altyapi",
+  "version": "1.0.0",
+  "description": "Utiric Boş Altyapı",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "author": "Utiric Code",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "hercai": "^10.0.2",
+    "mineflayer": "^4.11.0",
+    "path": "^0.12.7",
+    "terminal.xr": "^1.2.3"
+  }
+}
